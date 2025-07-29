@@ -15,22 +15,26 @@ Aplicación web para agendar y visualizar citas de mantenimiento de vehículos. 
 
 ## 📸 Capturas de pantalla
 
-### 📅 Agendar cita
+### 📅 Ejecutable 2.run.bat
 
 ![Agendar Cita](./evidencia/agendar-cita.png)
+
+### 📅 Agendar cita
+
+![Agendar Cita](./evidencia/agendar-cita3.png)
 
 ---
 
 ### 🔍 Buscar por placa
 
-![Agendar Cita](./evidencia/agendar-cita1.png)
+![Agendar Cita](./evidencia/agendar-cita2.png)
 
 ---
 
 ### 📋 Ver todas las citas
 
 
-![Agendar Cita](./evidencia/agendar-cita2.png)
+![Agendar Cita](./evidencia/agendar-cita1.png)
 
 ---
 
