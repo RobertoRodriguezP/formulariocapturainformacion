@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zRpXIOiPAUQDopoihSkHVHoYhuUqO8BXrC9Jj1zQaYk=",
+  "Source": "VehicleAppointmentsApi",
+  "BasePath": "_content/VehicleAppointmentsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
