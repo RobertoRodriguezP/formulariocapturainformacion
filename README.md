@@ -45,7 +45,7 @@ Aplicación web para agendar y visualizar citas de mantenimiento de vehículos. 
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/RobertoRodriguezP/formulariocapturainformacion.git
 cd tu-repo
 ```
 
