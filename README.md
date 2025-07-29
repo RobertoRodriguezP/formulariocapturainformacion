@@ -22,6 +22,8 @@ Aplicación web para agendar y visualizar citas de mantenimiento de vehículos. 
 ### 📅 Agendar cita
 
 ![Agendar Cita](./evidencia/agendar-cita3.png)
+![Agendar Cita](./evidencia/agendar-cita4.png)
+![Agendar Cita](./evidencia/agendar-cita5.png)
 
 ---
 
