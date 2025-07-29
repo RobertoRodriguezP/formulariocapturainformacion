@@ -23,13 +23,14 @@ Aplicación web para agendar y visualizar citas de mantenimiento de vehículos. 
 
 ### 🔍 Buscar por placa
 
-![Buscar Cita](./evidencia/buscar-cita.png)
+![Agendar Cita](./evidencia/agendar-cita1.png)
 
 ---
 
 ### 📋 Ver todas las citas
 
-![Todas las Citas](./evidencia/ver-todas-citas.png)
+
+![Agendar Cita](./evidencia/agendar-cita2.png)
 
 ---
 
@@ -47,7 +48,7 @@ cd tu-repo
 ```bash 
 1.setup.bat
 2.run.bat
-dotnet run
+
 ```
 
 ### 3. Run.bat
